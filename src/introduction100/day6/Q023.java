@@ -1,4 +1,4 @@
-package introduction100.dya6;
+package introduction100.day6;
 
 // 짝수 홀수 개수
 
@@ -9,8 +9,6 @@ package introduction100.dya6;
 // 제한사항
 // 1 ≤ num_list의 길이 ≤ 100
 // 0 ≤ num_list의 원소 ≤ 1,000
-
-import java.util.Scanner;
 
 public class Q023 {
     public int[] solution(int[] num_list) {

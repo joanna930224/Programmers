@@ -1,4 +1,4 @@
-package introduction100.dya6;
+package introduction100.day6;
 
 // 문자열 뒤집기
 

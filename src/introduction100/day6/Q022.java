@@ -1,4 +1,4 @@
-package introduction100.dya6;
+package introduction100.day6;
 
 // 직각삼각형 출력하기
 
